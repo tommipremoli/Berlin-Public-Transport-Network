@@ -1,2 +1,2 @@
-# Berlin-Public-Transport-Network
-Berlin-Public-Transport-Network
+# Berlin Public Transport Network
+The project aims to represent and analyse the public transport network in Berlin, the capital of Germany. For this study, network science techniques and geographical visualisation tools will be employed in order to obtain an in-depth understanding of the transport network. Using the data provided, which include information on connections between stops, geographical coordinates (latitude and longitude) and the characteristics of the different types of transport, the aim is to construct a detailed model of the network.
